@@ -1,2 +1,2 @@
 # EjemploGitFlow
-Este es mi ejemplo de Git Flow - Fernando Arvizu Sotelo
+Este es mi ejemplo de Git Flow - ***_Fernando Arvizu Sotelo_***
